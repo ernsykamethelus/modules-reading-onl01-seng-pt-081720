@@ -13,7 +13,3 @@ class Kid
 end
 
 
-Dancer.metadata
-// returns "This class produces objects that love to dance."
-Kid.metadata
-// returns "This class produces objects that love to dance."
